@@ -60,7 +60,10 @@ a.   KVL:
 ![WhatsApp Image 2025-08-26 at 13 49 19_6927fc49](https://github.com/user-attachments/assets/2ef780be-fd60-47fc-be4c-b2d71ba069c7)
 
 b.  KCL:
+
 ![WhatsApp Image 2025-08-26 at 13 49 18_9cae59cc](https://github.com/user-attachments/assets/4e7a8db5-f574-4890-b2ca-eb5e3d254ec1)
+
+![WhatsApp Image 2025-08-26 at 13 52 21_a927d4d0](https://github.com/user-attachments/assets/bbcd00aa-9cb9-4b50-902b-d245c4447a05)
 
 
 
