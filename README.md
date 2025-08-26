@@ -20,7 +20,7 @@ Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic 
 
 
 ### PROCEDURE:
-a.   KVL:
+### a.   KVL:
 1.   Connect as per the circuit diagram.
 2.   Check if the RPS voltage is set to zero voltage.
 3.   Check all the meters for null position.
@@ -30,7 +30,7 @@ a.   KVL:
 7.   Take readings for different values of input voltage and tabulate them.
 
 
-b.  KCL:
+### b.  KCL:
 1.   Connect as per the circuit diagram.
 2.   Check if the RPS voltage is set to zero voltage.
 3.   Check all the meters for null position.
@@ -42,22 +42,22 @@ b.  KCL:
 ### CIRCUIT DIAGRAM:
 
 
-a.   KVL:
+### a.   KVL:
  
 <img width="1919" height="728" alt="Screenshot 2025-08-25 092626" src="https://github.com/user-attachments/assets/08abb21a-856d-4f16-8c52-5c2d0d6cefc3" />
 
 
-b.  KCL:
+### b.  KCL:
  <img width="1577" height="595" alt="Screenshot 2025-08-26 133543" src="https://github.com/user-attachments/assets/5272b004-0e49-4656-b0ba-85361d4a20db" />
 
 
 ### Calculation:
 
-a.   KVL:
+### a.   KVL:
 ![IMG-20250826-WA0004](https://github.com/user-attachments/assets/e8566cfa-b670-482a-946d-dbe1532f0b27)
 ![WhatsApp Image 2025-08-26 at 13 49 19_6927fc49](https://github.com/user-attachments/assets/2ef780be-fd60-47fc-be4c-b2d71ba069c7)
 
-b.  KCL:
+### b.  KCL:
 ![WhatsApp Image 2025-08-26 at 13 49 18_9cae59cc](https://github.com/user-attachments/assets/4e7a8db5-f574-4890-b2ca-eb5e3d254ec1)
 ![WhatsApp Image 2025-08-26 at 13 52 21_a927d4d0](https://github.com/user-attachments/assets/bbcd00aa-9cb9-4b50-902b-d245c4447a05)
 
@@ -66,10 +66,10 @@ b.  KCL:
 
 ### Tabulation:
 
-a.   KVL:
+### a.   KVL:
 ![IMG-20250826-WA0005](https://github.com/user-attachments/assets/4145aa78-8f66-47bc-9d57-6cf4ef8e4d95)
 
-b.  KCL:
+### b.  KCL:
 ![IMG-20250826-WA0003](https://github.com/user-attachments/assets/ee5cf691-bbc2-483a-bc49-bd20c4be7aed)
 
 
