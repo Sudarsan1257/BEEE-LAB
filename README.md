@@ -72,11 +72,13 @@ b.  KCL:
 
 a.   KVL:
  
-![IMG-20250826-WA0003](https://github.com/user-attachments/assets/ee5cf691-bbc2-483a-bc49-bd20c4be7aed)
-
+![IMG-20250826-WA0005](https://github.com/user-attachments/assets/4145aa78-8f66-47bc-9d57-6cf4ef8e4d95)
 
 b.  KCL:
-![IMG-20250826-WA0005](https://github.com/user-attachments/assets/4145aa78-8f66-47bc-9d57-6cf4ef8e4d95)
+
+
+![IMG-20250826-WA0003](https://github.com/user-attachments/assets/ee5cf691-bbc2-483a-bc49-bd20c4be7aed)
+
 
 
 
